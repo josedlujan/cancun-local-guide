@@ -87,17 +87,24 @@ Evita caminar tarde por calles poco transitadas, incluso si están cerca de aven
 
 ### Antes de salir de la terminal
 
-_Pendiente por completar._
+Mi recomendación es llegar con tu salida del aeropuerto arreglada desde antes: reserva una camioneta o transporte privado con un proveedor verificable. Buscar un auto al aterrizar, cansado y con maletas, normalmente te deja con menos opciones y puede salir mucho más caro.
+
+No te dejes llevar únicamente por el precio de una renta de auto: en ocasiones la tarifa inicial puede parecer incluso menor que un traslado al hotel, pero revisa el costo total, incluyendo seguro, depósito, gasolina, estacionamiento y el uso real que le darás al vehículo. Si no planeas hacer varios recorridos fuera de Cancún, un traslado reservado suele ser más simple.
+
+Si tu prioridad es gastar lo menos posible, ADO es la opción más económica para ir del aeropuerto al Centro de Cancún. El boleto suele rondar los $145 MXN por persona, aunque conviene consultar el precio y horario vigente antes de viajar.
+
+Los autobuses de ADO salen con frecuencia desde el aeropuerto. Consulta el horario desde la terminal en la que aterrizas en la [página de ADO](https://www.ado.com.mx/) antes de viajar o al llegar; así sabrás cuál es la siguiente salida y podrás elegir el destino correcto.
+
+Los taxis suelen ser la opción más cara en relación costo-beneficio para salir del aeropuerto, por lo que no los recomiendo como primera alternativa. Úsalos solo si necesitas salir de inmediato, no te funciona el horario del autobús y no tienes un traslado reservado.
 
 ### Cómo llegar según tu destino
 
 | Destino | Opción recomendada | Consideraciones |
 | --- | --- | --- |
-| Zona Hotelera | Pendiente | Pendiente |
-| Centro de Cancún | Pendiente | Pendiente |
+| Zona Hotelera | Transporte privado reservado si tienes mucho equipaje o tu hotel está lejos de una parada; ADO si te funciona su parada fija. | [ADO](https://international.ado.com.mx/ado-bus/cancun-airport-to-cancun-hotel-zone-punta-cancun?locale=es-MX) cuenta con servicio directo desde las terminales 2, 3 y 4 a puntos específicos de la Zona Hotelera. Confirma horario, terminal de salida y qué tan lejos queda la parada de tu hotel. Para regresar al aeropuerto, normalmente conviene Uber o transporte privado reservado. |
+| Centro de Cancún | Autobús ADO a la Terminal de Cancún. | Es la alternativa más económica desde el aeropuerto. Desde la terminal puedes tomar taxi, transporte privado o caminar si tu hospedaje queda cerca. Para volver al aeropuerto puedes usar ADO desde la terminal, taxi o transporte privado. |
 | Puerto Morelos | Pendiente | Pendiente |
-| Isla Mujeres | Pendiente | Pendiente |
-| Hospedaje de un evento | Pendiente | Pendiente |
+| Isla Mujeres | Llega primero a Cancún y continúa desde ahí con los transportes de la ciudad. | Desde Cancún tendrás que llegar al muelle y tomar el ferry a la isla. Considera el tiempo total de traslado y los horarios del ferry antes de planear tu llegada. |
 
 ---
 
