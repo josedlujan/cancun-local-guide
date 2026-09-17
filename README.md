@@ -61,7 +61,25 @@ Por otro lado, el aire acondicionado suele estar fuerte en centros de trabajo, p
 
 ### Cosas que conviene evitar
 
-_Pendiente por completar._
+### Exponerte al sol del mediodía sin cuidarte
+
+Aunque estés en la playa o el cielo se vea nublado, el sol del mediodía puede ser muy fuerte. Una insolación o deshidratación puede aparecer rápido, sobre todo si llevas horas al aire libre o estás consumiendo bebidas alcohólicas. Toma agua con frecuencia, busca sombra, usa protección solar y no esperes a sentirte mal para descansar.
+
+### Confiarte del mar
+
+Saber nadar no elimina los riesgos del mar. En Cancún pueden formarse corrientes fuertes y cambiar las condiciones incluso dentro de la misma playa. Revisa las banderas al llegar, respeta siempre las indicaciones de guardavidas y no entres al agua si hay bandera roja. Puedes consultar el estado actualizado de playas en el [Tablero de Playas Públicas](https://tablerodeplayas.implancancun.gob.mx/).
+
+Evita meterte al mar después de consumir alcohol. Si una corriente te arrastra, mantén la calma, no nades contra ella, intenta desplazarte en paralelo a la orilla y pide ayuda.
+
+### Dejar tus pertenencias sin vigilancia
+
+No dejes celular, cartera, pasaporte, mochila o llaves solos en la arena mientras todos entran al agua. La mayoría de las visitas transcurre sin problemas, pero el descuido crea una oportunidad innecesaria. Si vas en grupo, turnarse para cuidar las cosas es suficiente; si vas solo, lleva únicamente lo indispensable y mantenlo contigo o en un lugar seguro.
+
+### Caminar por zonas solitarias de noche
+
+Evita caminar tarde por calles poco transitadas, incluso si están cerca de avenidas principales. En especial al salir de fiesta, el cansancio, el alcohol y la distracción hacen más fácil ser víctima de un robo. Planea cómo volver antes de salir, mantente acompañado cuando sea posible y usa transporte para el último tramo si la ruta no se siente segura.
+
+> **Tip local:** disfrutar Cancún no requiere vivir con miedo; requiere no improvisar con el sol, el mar, tus pertenencias o tu regreso de noche.
 
 ---
 
