@@ -347,19 +347,42 @@ Antes de elegir playa, consulta el [Tablero de Playas Públicas](https://tablero
 
 ### Isla Mujeres
 
-_Pendiente por completar._
+Para llegar a Isla Mujeres necesitas tomar ferry. Los puntos más comunes son **Puerto Juárez**, que suele ser la opción más práctica desde el Centro, y **Playa Tortugas**, que puede convenir si te hospedas en Zona Hotelera. También hay salidas desde Playa Caracol. Con Ultramar, la tarifa publicada para adulto es de **$290 MXN sencillo** o **$580 MXN redondo**; revisa el precio y horario vigentes antes de comprar, porque pueden cambiar.
+
+En la isla hay dos planes muy distintos:
+
+- **Garrafón Park:** es un parque junto al mar donde puedes pasar prácticamente todo el día. Según el paquete, incluye alimentos, bebidas y actividades como tirolesa, snorkel, kayak, alberca y otras experiencias. Es un parque relativamente compacto, pero cómodo si quieres pagar una vez y no preocuparte por organizar cada parte del día. Revisa exactamente qué incluye el paquete antes de reservar.
+- **Playa Norte:** si prefieres un día más libre, ve al norte de la isla. Ahí encontrarás playa, bares, restaurantes y actividades; muchos yates paran en esa zona para que la gente nade. La comida tiene precios razonables para ser una isla y puedes armar el día a tu ritmo.
+
+> **Tip local:** toma un ferry temprano y revisa el último regreso antes de empezar a tomar o alejarte del muelle. Llegar y volver es sencillo, pero el ferry define tu horario.
 
 ### Puerto Morelos
 
-_Pendiente por completar._
+Puerto Morelos es una buena escapada para un día más tranquilo. Al llegar al pueblo puedes caminar hacia la playa; muchos restaurantes tienen acceso o están muy cerca de ella. Lo más normal es elegir un restaurante, consumir ahí y usar ese punto como base para pasar el día con comida, baños y playa a la mano.
+
+No necesitas planear una producción complicada: llega, camina, encuentra un lugar cómodo y disfruta la playa. Solo considera el traslado de ida y vuelta desde Cancún antes de elegirlo como plan de medio día.
 
 ### Cenotes
 
-_Pendiente por completar._
+Puedes visitar cenotes por tu cuenta y pagar solo el acceso; algunos tienen entradas económicas, que pueden ir aproximadamente de $40 a $150 MXN, aunque el costo cambia mucho según el cenote, servicios y temporada. El problema no suele ser solo el precio: hay muchos cenotes, especialmente en la ruta frente a Puerto Morelos, y es fácil perder tiempo buscando accesos, manejando de uno a otro o eligiendo sin saber qué incluye cada lugar.
+
+Por eso recomiendo contratar un tour si es tu primera vez o tienes pocos días. Muchos incluyen traslado desde y hasta tu hotel, entradas y en ocasiones comida o bebidas. Puede parecer más caro al inicio, pero al sumar renta o transporte, gasolina, entradas y el tiempo de organizar todo por cuenta propia, muchas veces termina siendo una opción más cómoda y con mejor costo-beneficio.
+
+Si decides ir por tu cuenta, confirma el precio final, métodos de pago, horarios, si necesitas chaleco, si hay regaderas y qué tan lejos queda el cenote de la carretera principal antes de salir.
 
 ### Tulum y Chichén Itzá
 
-_Pendiente por completar._
+#### Tulum
+
+Tulum es un plan de día completo desde Cancún. El trayecto por carretera puede tomar alrededor de dos horas por sentido, según tráfico y tu punto de salida; con traslados, caminatas y visitas, calcula bastante más tiempo para el día completo.
+
+Tiene ruinas, playa y una zona hotelera conocida, pero los precios pueden ser mucho más altos que en otras partes de la región. Si no conoces el área, evita improvisar caminatas largas, trayectos aislados o regresos tarde: muchas zonas están separadas y un mapa que parece “cerca” puede implicar bastante distancia real. Si vas, planea transporte y regreso desde el inicio.
+
+#### Chichén Itzá
+
+Para Chichén Itzá también recomiendo un tour, sobre todo si vienes por primera vez. La entrada no es el único gasto: el sitio está en Yucatán y al precio del acceso se agregan transporte, posibles casetas, estacionamiento, comida y muchas horas de carretera. La tarifa oficial se compone de una cuota INAH y otra del Gobierno de Yucatán, así que confírmala antes de viajar.
+
+Un tour puede costar alrededor de $100 USD por persona, pero muchos incluyen transporte, guía, comidas o paradas en pueblos de la región y cenotes. Al hacer todas las cuentas, no siempre ahorras yendo por tu cuenta; a veces terminas pagando lo mismo o más, además de perder tiempo organizando el recorrido. Elige un operador claro sobre lo que incluye y no compres por precio sin revisar la letra pequeña.
 
 ---
 
