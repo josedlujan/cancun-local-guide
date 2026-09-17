@@ -322,13 +322,21 @@ Si quieres buscar ropa, marcas y compras a precios de outlet, **Go Grand Outlet 
 
 ## 7. Playas
 
-| Quiero... | Buscar una playa con... |
-| --- | --- |
-| Nadar y descansar | Pendiente |
-| Un día social | Pendiente |
-| Un plan más tranquilo | Pendiente |
-| Buen atardecer o fotos | Pendiente |
-| Ir con familia | Pendiente |
+Las playas públicas de Cancún son de acceso gratuito. Para ubicarte mejor, esta guía usa el kilómetro del Boulevard Kukulcán: mientras más alto sea el número, más lejos estarás del inicio de la Zona Hotelera y del Centro. El tiempo real de traslado cambia según dónde te hospedes, el tráfico y la hora, así que revisa el mapa antes de salir.
+
+Antes de elegir playa, consulta el [Tablero de Playas Públicas](https://tablerodeplayas.implancancun.gob.mx/) para ver bandera, presencia de guardavidas, afluencia y condiciones del mar. No elijas solo por fotos: una playa puede verse increíble y tener una bandera que no permita nadar ese día.
+
+| Playa | Dónde está | Distancia / referencia | Buena opción si... | Nota útil |
+| --- | --- | --- | --- | --- |
+| Playa del Niño | Puerto Juárez | Fuera de Zona Hotelera, al norte del Centro | Te hospedas en el Centro o cerca de Puerto Juárez y buscas evitar un traslado largo a la Zona Hotelera. | No uses los kilómetros de Boulevard Kukulcán para calcularla; revisa la ruta desde tu hospedaje. |
+| Las Perlas | Zona Hotelera | Km 2.5; una de las más cercanas al Centro | Quieres entrar a la Zona Hotelera sin irte hasta el extremo sur. | Buena para combinar con un plan en Puerto Cancún o el inicio de la Zona Hotelera. |
+| Chac Mool | Zona Hotelera | Km 9.5; tramo central | Te hospedas o te mueves por la parte céntrica de la Zona Hotelera. | Revisa bandera y condiciones antes de entrar al mar. |
+| Marlín | Zona Hotelera | Km 12.5; cerca de La Isla | Quieres combinar playa, compras o restaurantes en La Isla. | El acceso público tiene servicios; llega con tiempo en días de alta afluencia. |
+| Ballenas | Zona Hotelera | Km 14.5; después de La Isla | Quieres una playa en el tramo medio-sur de la Zona Hotelera. | Está más lejos del Centro que Chac Mool o Las Perlas. |
+| Delfines / El Mirador | Zona Hotelera | Km 17.5; aproximadamente 3 km después de Ballenas | Buscas la foto del letrero de Cancún, vista panorámica y un plan de playa. | Es una de las playas públicas más conocidas; puede tener mucha gente y el mar cambia de condición. |
+| Coral | Zona Hotelera | Km 24.5; extremo sur | Quieres ir hasta la parte final de Zona Hotelera y no te importa un traslado más largo. | Planea ida y vuelta con anticipación: queda bastante más lejos de los puntos céntricos. |
+
+> **Tip local:** no elijas playa solo porque alguien dijo que “es la mejor”. Elige según dónde estés hospedado, cuánto tiempo tengas, si quieres nadar o solo caminar, y el estado del mar ese día.
 
 ---
 
