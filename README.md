@@ -114,31 +114,53 @@ Los taxis suelen ser la opción más cara en relación costo-beneficio para sali
 
 ### Zona Hotelera
 
-**Buena para:** _Pendiente._
+**Buena para:** quien quiere estar cerca de la playa, hoteles, restaurantes y actividades turísticas, con una movilidad sencilla dentro de la zona.
 
-**No tan buena para:** _Pendiente._
-**Tip local:** _Pendiente._
+**No tan buena para:** presupuestos ajustados; en general es la zona más cara para hospedarse y consumir.
+
+En Cancún hay muchos hoteles **todo incluido**. Normalmente, la tarifa cubre comidas, bebidas y acceso a los servicios incluidos del hotel, por lo que puede ser una buena opción si quieres evitar estar calculando gastos durante el viaje. No significa que todo sea ilimitado sin excepciones: alcohol importado, cortes específicos, restaurantes especiales, experiencias y algunos servicios pueden tener un cargo adicional.
+
+La calidad cambia mucho entre hoteles y cadenas. Algunos destacan por su comida, servicio y variedad; otros están pensados para ofrecer una alternativa más económica. Antes de reservar, revisa qué incluye realmente la tarifa, cuántos restaurantes están incluidos, si requieren reservación y qué servicios tienen costo extra.
+
+En los primeros kilómetros puedes encontrar hoteles con precios más accesibles si reservas con tiempo. Entre los kilómetros 7 y 13 hay mayor concentración de hoteles, plazas, restaurantes y transporte; es una ubicación muy práctica para moverte. Los autobuses recorren el Boulevard Kukulcán y sirven para llegar a muchas playas y plazas dentro de la zona. Usa paradas oficiales, confirma que tomas la dirección correcta y considera las unidades con aire acondicionado si prefieres más comodidad, aunque pueden costar un poco más.
+
+La parte final de la Zona Hotelera suele tener playas muy buenas, más espacio y menos gente, pero también queda más lejos de restaurantes, plazas y actividades. Al estar más vacías y rodeadas de entorno natural, conviene revisar las condiciones del mar, respetar indicaciones y no alejarse de zonas vigiladas.
+
+En general, es una de las áreas más tranquilas para visitantes. Aun así, no dejes dinero, pasaportes, joyería o electrónicos de valor a la vista en la habitación: usa la caja de seguridad, equipaje con candado o resguárdalos contigo.
+
+**Tip local:** elige hotel según el kilómetro, no solo por decir “Zona Hotelera”. Estar dentro de la zona no significa que todos los lugares queden cerca caminando.
 
 ### Centro de Cancún
 
-**Buena para:** _Pendiente._
+**Buena para:** encontrar hoteles y Airbnb con buena relación precio-ubicación, comer fuera de la zona turística y estar cerca de la Terminal ADO.
 
-**No tan buena para:** _Pendiente._
-**Tip local:** _Pendiente._
+**No tan buena para:** quien quiere salir del hospedaje y llegar caminando a la playa, o quien planea regresar caminando tarde por la noche.
+
+El Centro es muy variado: puedes encontrar hospedajes muy buenos a precios más accesibles que en la Zona Hotelera, pero la experiencia depende mucho de la calle y ubicación exacta. Las zonas cercanas al Ayuntamiento, Plaza Las Américas y Parque de las Palapas son puntos céntricos para orientarte y moverte.
+
+Durante el día y temprano por la noche puedes disfrutar la zona con normalidad. Más tarde, evita caminar solo por calles poco transitadas o aledañas a avenidas principales, especialmente al volver de fiesta, cansado o distraído. Planea el transporte de regreso y úsalo si el trayecto no se siente cómodo.
+
+**Tip local:** antes de reservar, abre el mapa, revisa la distancia a la Terminal ADO, al lugar del evento y a las avenidas principales; dos hospedajes “en el Centro” pueden tener una logística muy distinta.
 
 ### Puerto Morelos
 
-**Buena para:** _Pendiente._
+**Buena para:** una estancia tranquila, playa y restaurantes accesibles caminando desde muchos hospedajes.
 
-**No tan buena para:** _Pendiente._
-**Tip local:** _Pendiente._
+**No tan buena para:** asistir a actividades frecuentes en Cancún sin planear con cuidado los traslados.
+
+Muchos hospedajes quedan a unos cinco minutos caminando de la playa, por lo que es una opción cómoda si buscas un ritmo más relajado. Desde Cancún calcula aproximadamente 25 a 30 minutos en auto, según el punto de salida y el tráfico.
+
+**Tip local:** es excelente para bajar el ritmo, pero no lo elijas solo por ser más tranquilo si tendrás eventos diarios en Cancún; suma el transporte de ida y vuelta antes de decidir.
 
 ### Isla Mujeres
 
-**Buena para:** _Pendiente._
+**Buena para:** una escapada de isla, playa y una estancia sin prisas.
 
-**No tan buena para:** _Pendiente._
-**Tip local:** _Pendiente._
+**No tan buena para:** presupuestos ajustados, vuelos con horarios apretados o eventos frecuentes en Cancún.
+
+Al ser una isla, hospedarse y consumir suele ser más caro. Tiene muy buenas opciones de alojamiento, pero debes considerar el traslado al muelle y los horarios del ferry. Si solo quieres conocerla, una muy buena opción es ir temprano en barco, pasar el día y regresar a Cancún por la tarde o noche.
+
+**Tip local:** no planees Isla Mujeres como una visita rápida entre dos compromisos. El ferry hace que sea fácil llegar, pero también marca tu hora de regreso.
 
 ---
 
