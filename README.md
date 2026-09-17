@@ -266,23 +266,57 @@ Respecto al alcohol, si buscas una opción sencilla y predecible, la cerveza sue
 
 ---
 
-## 6. Planes en tiempos libres
+## 6. Lugares para conocer y qué hacer
 
-### Tengo 2 o 3 horas libres
+### Plaza Las Américas y Malecón Tajamar
 
-_Pendiente por completar._
+Plaza Las Américas es una de las plazas más grandes y conocidas de Cancún. Tiene tiendas departamentales, cafeterías, bancos, restaurantes, actividades y opciones para distintos presupuestos. Gran parte cuenta con aire acondicionado, el estacionamiento es amplio y afuera suele haber transporte con facilidad. Es una opción cómoda para resolver compras, comer, tomar un café o simplemente pasar unas horas fuera del calor.
 
-### Tengo medio día libre
+Frente a la plaza, del lado de la laguna, está el **Malecón Tajamar**. Es una zona agradable para caminar, sentarse o ver la laguna. En las horas de mayor sol puede sentirse muy caluroso, así que es mejor visitarlo temprano o al atardecer. En fechas especiales suelen realizarse festivales, mercados y actividades.
 
-_Pendiente por completar._
+### Paseo Cancunense y Puente Nichupté
 
-### Tengo un día completo libre
+El **Paseo Cancunense** se realiza normalmente los domingos por la mañana, aproximadamente de 7:00 a 12:00, cuando se cierra parte de Avenida Bonampak para caminar, correr, andar en bicicleta, patines o convivir. Hay actividades familiares, ejercicio y emprendimientos locales. Algunas veces se organiza una versión nocturna; consulta la programación vigente antes de ir.
 
-_Pendiente por completar._
+El **Puente Nichupté** es otra alternativa reciente para caminar, correr o andar en bicicleta cuando se realizan sus jornadas dominicales. Se cierra al tránsito vehicular durante estas actividades y suele haber comida, opciones para caminar y una buena vista del atardecer. Como la programación puede cambiar, confirma fecha y horario antes de organizar el plan.
 
-### Tengo solo una noche libre
+### Parque de las Palapas y Ayuntamiento
 
-_Pendiente por completar._
+El **Parque de las Palapas**, frente al Ayuntamiento de Cancún, es uno de los puntos más locales para visitar. Puedes comer esquites, marquesitas, pan, postres y antojitos; también hay venta de artesanías regionales. Según el día, puede haber presentaciones, baile, artistas o actividades para familias.
+
+En la plaza principal del Ayuntamiento también se organizan actividades, especialmente en domingo. Es un buen lugar para ver un ambiente más cotidiano de la ciudad y, en ocasiones, grupos que se reúnen a bailar.
+
+### Caminar, correr y ver el atardecer
+
+El **Jardín del Arte**, en Zona Hotelera, tiene un paseo junto a la laguna y bancas para descansar. Está cerca del puente de la Zona Hotelera y se ha vuelto un buen punto para caminar o correr.
+
+Puerto Cancún también funciona para caminar, correr, comer un helado y ver el atardecer. La Zona Hotelera tiene espacios y trayectos para correr; el Malecón Tajamar es otra alternativa, aunque conviene evitar las horas de sol intenso.
+
+### Plaza La Isla y compras
+
+**La Isla** es una plaza grande en Zona Hotelera con una sección de lujo y otra con restaurantes, comida y tiendas de ropa para distintos presupuestos. Es un buen lugar para caminar, cenar o pasar la tarde.
+
+Mucha gente visita Cancún para comprar perfumes porque puede encontrar precios atractivos. Si te interesa, compara precios entre tiendas formales; **UltraFemme** es una de las opciones más conocidas. No compres perfumes en puestos improvisados ni productos sin empaque o comprobante.
+
+### Mirador de Playa Delfines
+
+El Mirador de Playa Delfines tiene una de las vistas más conocidas de Cancún y el letrero de la ciudad que muchas personas buscan para tomarse una foto. El acceso es gratuito. Si alguien te ofrece tomar la foto, puede ser un servicio opcional, pero nadie debe cobrarte por entrar, usar el mirador o tomarte tu propia foto.
+
+Varias playas públicas cuentan con baños y otros servicios, lo que hace que sea un buen plan para combinar la vista con un rato de playa. Revisa el estado del mar y las banderas antes de entrar al agua.
+
+### Parques y naturaleza
+
+**Parque Cancún** es una buena opción si quieres ver vegetación, correr o pasar una tarde activa. Tiene espacios para niños, patinaje, skate, observación de aves y actividades como parkour. Para ver aves, algunas personas se organizan muy temprano; revisa si hay alguna salida o actividad programada.
+
+El **Parque Ecológico Kabah** permite caminar y observar fauna de la región en plena ciudad. Es una visita tranquila para conocer un poco más de la vegetación local. No alimentes, toques ni persigas a los animales.
+
+### Avenida Huayacán
+
+La Avenida Huayacán es una zona nueva y en crecimiento, llena de restaurantes de muchos tipos. No es céntrica ni es fácil moverse ahí en transporte público, así que normalmente tendrás que llegar en Uber, DiDi o taxi. Si ya estás por la zona o buscas probar un restaurante diferente, tendrás muchas opciones.
+
+### Go Grand Outlet Riviera Maya
+
+Si quieres buscar ropa, marcas y compras a precios de outlet, **Go Grand Outlet Riviera Maya** queda cerca del aeropuerto y puede ser una buena parada antes o después de un vuelo, siempre que tengas tiempo suficiente. Además de tiendas, tiene cafeterías, restaurantes y actividades de entretenimiento; la oferta puede incluir pista de hielo, presentaciones de patinaje, hockey, go-karts y más. Consulta qué está disponible el día de tu visita.
 
 ---
 
