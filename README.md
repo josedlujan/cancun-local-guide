@@ -35,7 +35,17 @@ Más adelante encontrarás una sección completa con recomendaciones de segurida
 
 ### Datos y conexión
 
-_Pendiente por completar._
+Cancún es una ciudad grande y en crecimiento, con alrededor de un millón de habitantes en su zona urbana. También es uno de los destinos mejor conectados de Latinoamérica: hay vuelos directos desde muchas ciudades importantes de México, Estados Unidos, Canadá, Latinoamérica y Europa. Llegar aquí normalmente no será el problema.
+
+La moneda oficial es el peso mexicano. Aunque en Cancún puedes pagar en dólares en muchos lugares, no recomiendo usarlos como moneda cotidiana. Algunos negocios manejan un tipo de cambio muy por debajo del real; por ejemplo, cuando el dólar ronda los $20 MXN, pueden recibirlo a $15 MXN. Esa diferencia puede hacer que pierdas alrededor de una cuarta parte de tu dinero en cada pago.
+
+Lo mejor es pagar con tarjeta o cambiar dólares a pesos en una casa de cambio confiable antes de empezar a gastar. Antes de aceptar un cambio o pagar en dólares, pregunta siempre qué tipo de cambio usarán.
+
+No todo el mundo habla inglés, pero por el turismo es común encontrar personas que entienden lo básico y pueden ayudarte a comunicarte. En plazas, zonas comerciales y la Zona Hotelera suele ser mucho más fácil encontrar atención en inglés. Fuera de esas áreas, unas frases básicas en español, un traductor en el teléfono y paciencia suelen ser suficientes.
+
+Cancún también está bien conectado con el resto de la península. Puedes llegar por carretera a lugares como Playa del Carmen, Tulum, Valladolid y Mérida; varios de ellos están a menos de cuatro horas en auto. Para Isla Mujeres hay que trasladarse a un muelle y tomar ferry. En autobús los trayectos pueden tomar más por las paradas, pero moverse entre destinos es sencillo. El Tren Maya también abre una alternativa adicional para algunos recorridos dentro de la península.
+
+> **Tip local:** descarga mapas sin conexión y guarda las ubicaciones de tu hospedaje, aeropuerto, sede del evento y terminales. Tener datos móviles ayuda mucho, pero no deberías depender por completo de la señal para saber a dónde ir.
 
 ### Clima y qué empacar
 
