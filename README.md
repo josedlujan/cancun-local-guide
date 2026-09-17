@@ -19,9 +19,13 @@ Cada recomendación buscará responder:
 
 ## 1. Antes de llegar
 
-### Dinero
+### Reserva con tiempo y con proveedores verificables
 
-_Pendiente por completar._
+Cancún suele encarecerse mucho cuando reservas cerca de la fecha, especialmente en temporadas de alta demanda, fines de semana largos y fechas con eventos. Si tienes tus fechas claras, reserva vuelos, hospedaje y transportación con anticipación: normalmente puedes ahorrar una cantidad importante y tendrás más opciones para elegir.
+
+Al mismo tiempo, no reserves solo porque encontraste el precio más bajo. Busca hoteles, agencias, transportistas y tours con un nombre comercial claro, información de contacto verificable, reseñas consistentes y condiciones de compra por escrito. Guarda siempre tu comprobante de pago y confirmación de reserva.
+
+> **Tip local:** si una oferta parece demasiado buena para ser verdad, tómate unos minutos para investigarla más. Sí existen buenas ofertas, pero Cancún recibe muchos visitantes y también atrae páginas, agencias y perfiles falsos que aprovechan la emoción de reservar. Comparar, revisar y confirmar antes de pagar te puede ahorrar un problema incluso antes de llegar.
 
 ### Datos y conexión
 
