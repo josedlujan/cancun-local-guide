@@ -330,9 +330,12 @@ Antes de elegir playa, consulta el [Tablero de Playas Públicas](https://tablero
 | --- | --- | --- | --- | --- |
 | Playa del Niño | Puerto Juárez | Fuera de Zona Hotelera, al norte del Centro | Te hospedas en el Centro o cerca de Puerto Juárez y buscas evitar un traslado largo a la Zona Hotelera. | No uses los kilómetros de Boulevard Kukulcán para calcularla; revisa la ruta desde tu hospedaje. |
 | Las Perlas | Zona Hotelera | Km 2.5; una de las más cercanas al Centro | Quieres entrar a la Zona Hotelera sin irte hasta el extremo sur. | Buena para combinar con un plan en Puerto Cancún o el inicio de la Zona Hotelera. |
+| Langosta | Zona Hotelera | Km 5; cerca del inicio de la Zona Hotelera | Quieres una playa más cercana que las del tramo central o sur. | Está entre Las Perlas y Tortugas; revisa la bandera antes de nadar. |
+| Tortugas | Zona Hotelera | Km 6.5; tramo norte de la Zona Hotelera | Quieres una playa concurrida y relativamente cerca del Centro. | Queda cerca de muelles y actividades turísticas; puede tener bastante movimiento. |
 | Chac Mool | Zona Hotelera | Km 9.5; tramo central | Te hospedas o te mueves por la parte céntrica de la Zona Hotelera. | Revisa bandera y condiciones antes de entrar al mar. |
 | Marlín | Zona Hotelera | Km 12.5; cerca de La Isla | Quieres combinar playa, compras o restaurantes en La Isla. | El acceso público tiene servicios; llega con tiempo en días de alta afluencia. |
 | Ballenas | Zona Hotelera | Km 14.5; después de La Isla | Quieres una playa en el tramo medio-sur de la Zona Hotelera. | Está más lejos del Centro que Chac Mool o Las Perlas. |
+| San Miguelito | Zona Hotelera | Km 16.5; cerca del Museo Maya y la zona arqueológica | Quieres combinar playa con una visita cultural. | Confirma el acceso y los servicios antes de ir; la zona arqueológica tiene horarios y entrada propios. |
 | Delfines / El Mirador | Zona Hotelera | Km 17.5; aproximadamente 3 km después de Ballenas | Buscas la foto del letrero de Cancún, vista panorámica y un plan de playa. | Es una de las playas públicas más conocidas; puede tener mucha gente y el mar cambia de condición. |
 | Coral | Zona Hotelera | Km 24.5; extremo sur | Quieres ir hasta la parte final de Zona Hotelera y no te importa un traslado más largo. | Planea ida y vuelta con anticipación: queda bastante más lejos de los puntos céntricos. |
 
