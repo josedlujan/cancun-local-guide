@@ -49,7 +49,15 @@ Cancún también está bien conectado con el resto de la península. Puedes lleg
 
 ### Clima y qué empacar
 
-_Pendiente por completar._
+El clima de Cancún puede cambiar mucho durante el día. Puede haber una tormenta fuerte con truenos y, poco después, volver a salir el sol con mucha intensidad. También es común sentir un calor muy fuerte durante la mañana o tarde y encontrar lluvia más adelante.
+
+La humedad se nota durante todo el año. Estamos rodeados de selva y vegetación, por lo que el ambiente suele sentirse húmedo incluso cuando no está lloviendo. Empaca ropa fresca, ligera y cómoda para el calor, pero no viajes preparado únicamente para días de playa.
+
+Lleva también algo para protegerte de la lluvia: un impermeable ligero, una sombrilla compacta o ambos. Es útil tener una muda adicional y zapatos que puedan mojarse o secarse fácilmente si vas a pasar tiempo fuera.
+
+Por otro lado, el aire acondicionado suele estar fuerte en centros de trabajo, plazas, restaurantes, oficinas y algunos transportes. Una camisa ligera de manga larga, sudadera delgada o capa extra puede hacer mucha diferencia entre un lugar y otro.
+
+> **Tip local:** vístete por capas. La mejor combinación suele ser ropa ligera para el exterior y una prenda delgada que puedas ponerte al entrar a lugares con aire acondicionado o cuando cambie el clima.
 
 ### Cosas que conviene evitar
 
