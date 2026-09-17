@@ -1,10 +1,10 @@
-# Cancún Local Guide
+# 🌴 Cancún Local Guide
 
 A practical guide for people visiting Cancún, whether for one of our events or a personal trip. It focuses on local, useful details: getting around, where to stay, what is worth doing, and how to avoid common mistakes.
 
 > This is not meant to be a generic tourist guide. It is built around local recommendations, practical context, and details that make planning easier.
 
-## 1. Before you arrive
+## ✈️ 1. Before you arrive
 
 ### Book early and use verifiable providers
 
@@ -28,7 +28,7 @@ Avoid prolonged midday sun without water, shade, and sunscreen; heat exhaustion 
 
 Do not leave valuables unattended on the beach or visible in your room. Avoid isolated streets late at night, even near major avenues. Plan your ride back before going out.
 
-## 2. From the airport to your lodging
+## 🛬 2. From the airport to your lodging
 
 Arrange your airport departure in advance through a verifiable private-transfer provider. Looking for a ride after landing, tired and carrying luggage, usually gives you fewer and more expensive options. A rental-car quote may look cheaper than a transfer, but compare insurance, deposit, fuel, parking, and whether you will actually use the car.
 
@@ -43,7 +43,7 @@ Exchanging dollars at the airport is a practical, formal option. You may find a 
 | Puerto Morelos | To be completed. | To be completed. |
 | Isla Mujeres | Reach Cancún first, then continue to a ferry pier. | Factor in the full transfer and ferry schedule. |
 
-## 3. Where to stay
+## 🏨 3. Where to stay
 
 ### Hotel Zone
 
@@ -59,7 +59,7 @@ Best for better-value hotels and Airbnb, local dining, and access to the ADO ter
 
 Puerto Morelos is relaxed, with many lodging options within a short walk of the beach, but allow roughly 25–30 minutes by car from Cancún. Isla Mujeres is great for a slow island stay, but it costs more and the ferry makes it unsuitable for tight flights or frequent Cancún commitments. For a simple visit, go early and return that afternoon or evening.
 
-## 4. Getting around Cancún
+## 🚌 4. Getting around Cancún
 
 Hotel Zone buses are one of the best options: in many stretches they pass every five minutes or less and connect beaches, malls, restaurants, Parque de las Palapas, Plaza Las Américas, and Malecón Tajamar. Use official stops and confirm the direction. Downtown routes are more confusing for visitors, and route information is not always current.
 
@@ -67,7 +67,7 @@ Taxis are available but are not the first recommendation: they can be expensive 
 
 Renting a car is useful for trips outside Cancún or groups. Drive defensively around roundabouts and crossings, fully yield to pedestrians, and never drive after drinking. At night, avoid walking alone on quiet streets after 10–11 p.m.; agree on your return transport before going out.
 
-## 5. Food and drinks
+## 🌮 5. Food and drinks
 
 Cancún has options for almost every budget, from quick food to formal restaurants.
 
@@ -79,7 +79,7 @@ Cancún has options for almost every budget, from quick food to formal restauran
 - **Dinner:** Puerto Cancún works for casual or elegant dinners. For a special Hotel Zone meal, Puerto Madero is a higher-priced but worthwhile choice for cuts, fish, or seafood by the lagoon.
 - **Nightlife:** Coco Bongo is the classic large first-night-out experience because it combines clubbing and shows. Buy in advance only through its official site or an authorized channel. The City and other clubs are alternatives. Go with your group, plan your ride home, and do not separate without telling each other. Beer is a simple, predictable choice; for spirits, order known brands, check what your ticket includes, and never accept drinks from strangers.
 
-## 6. Places to see and things to do
+## 📍 6. Places to see and things to do
 
 - **Plaza Las Américas and Malecón Tajamar:** A large, air-conditioned mall for shopping, banks, cafés, food, and activities. Across the lagoon is Malecón Tajamar, good for walking, sitting, and special-date markets or festivals; visit early or near sunset because midday heat is intense.
 - **Paseo Cancunense and Puente Nichupté:** Paseo Cancunense normally closes part of Avenida Bonampak on Sunday mornings, around 7 a.m.–12 p.m., for walking, running, cycling, skating, family activities, and local vendors. A night edition sometimes happens. The recently opened Puente Nichupté can also host Sunday walking, cycling, food, and sunset activities. Confirm current dates and hours.
@@ -91,7 +91,7 @@ Cancún has options for almost every budget, from quick food to formal restauran
 - **Avenida Huayacán:** A growing, restaurant-filled area that is not central and is usually easiest to reach by Uber, DiDi, or taxi.
 - **Go Grand Outlet Riviera Maya:** Near the airport, with outlet shopping, cafés, restaurants, and changing entertainment such as ice rink, skating shows, hockey, and go-karts. Check what is available that day.
 
-## 7. Beaches
+## 🏖️ 7. Beaches
 
 Public beaches are free. This guide uses Boulevard Kukulcán kilometer markers: higher numbers are farther from the start of Hotel Zone and downtown. Travel time depends on your hotel, traffic, and time of day. Check flags, lifeguards, crowd level, and conditions on the [Public Beaches Dashboard](https://tablerodeplayas.implancancun.gob.mx/).
 
@@ -108,7 +108,7 @@ Public beaches are free. This guide uses Boulevard Kukulcán kilometer markers: 
 | Delfines / El Mirador | Hotel Zone, Km 17.5 | You want the Cancún sign and panoramic view. |
 | Coral | Hotel Zone, Km 24.5 | You do not mind going to the far south end. |
 
-## 8. Excursions outside Cancún
+## 🚤 8. Excursions outside Cancún
 
 ### Isla Mujeres
 
@@ -128,7 +128,7 @@ Tulum is a full-day trip from Cancún, often around two hours each way by road d
 
 For Chichén Itzá, a tour is recommended for first-time visitors. The Yucatán site involves more than admission: transport, tolls, parking, food, and a long road day. Tours around US$100 can include transport, guide, food, regional stops, and cenotes, so independent travel does not always save money. Verify exactly what a tour includes.
 
-## 9. Safety
+## 🛡️ 9. Safety
 
 Most visitors have a good experience, but travel informed and do not improvise when tired, distracted, or drinking. These are prevention measures, not blame if something happens.
 
@@ -139,7 +139,7 @@ Most visitors have a good experience, but travel informed and do not improvise w
 - Avoid walking alone on quiet streets late at night, stay with your group, and do not accept drinks, rides, or plans from strangers.
 - In an emergency, move to a busy business or hotel and call **911**. Block lost cards, documents, or phones quickly and keep reports and screenshots.
 
-## 10. Ten things visitors should know
+## 💡 10. Ten things visitors should know
 
 1. Many attractions and tourist services have different rates for residents, Mexican nationals, and visitors—ask what is included.
 2. Xcaret parks are usually a good first-time option; compare the less expensive alternatives and their inclusions before choosing.
@@ -154,7 +154,7 @@ Most visitors have a good experience, but travel informed and do not improvise w
 
 ---
 
-# Guía local de Cancún
+# 🌴 Guía local de Cancún
 
 Una guía práctica para personas que vienen a Cancún, ya sea por uno de nuestros eventos o por viaje personal. Aquí encontrarás recomendaciones concretas: cómo moverte, dónde quedarte, qué planes valen la pena y cómo evitar errores comunes.
 
@@ -173,7 +173,7 @@ Cada recomendación buscará responder:
 
 ---
 
-## 1. Antes de llegar
+## ✈️ 1. Antes de llegar
 
 ### Reserva con tiempo y con proveedores verificables
 
@@ -239,7 +239,7 @@ Evita caminar tarde por calles poco transitadas, incluso si están cerca de aven
 
 ---
 
-## 2. Del aeropuerto a tu hospedaje
+## 🛬 2. Del aeropuerto a tu hospedaje
 
 ### Antes de salir de la terminal
 
@@ -266,7 +266,7 @@ Los taxis suelen ser la opción más cara en relación costo-beneficio para sali
 
 ---
 
-## 3. Dónde hospedarse
+## 🏨 3. Dónde hospedarse
 
 ### Zona Hotelera
 
@@ -320,7 +320,7 @@ Al ser una isla, hospedarse y consumir suele ser más caro. Tiene muy buenas opc
 
 ---
 
-## 4. Cómo moverse en Cancún
+## 🚌 4. Cómo moverse en Cancún
 
 ### Autobuses públicos
 
@@ -358,7 +358,7 @@ En el Centro hay cámaras y movimiento en varios puntos, pero eso no vuelve toda
 
 ---
 
-## 5. Comer y tomar
+## 🌮 5. Comer y tomar
 
 Esta es una de las partes más fáciles de resolver en Cancún: hay opciones para muchos presupuestos, desde comida rápida y locales sencillos hasta restaurantes más formales. No necesitas complicarte para encontrar algo bueno, especialmente en las zonas comerciales y turísticas.
 
@@ -422,7 +422,7 @@ Respecto al alcohol, si buscas una opción sencilla y predecible, la cerveza sue
 
 ---
 
-## 6. Lugares para conocer y qué hacer
+## 📍 6. Lugares para conocer y qué hacer
 
 ### Plaza Las Américas y Malecón Tajamar
 
@@ -476,7 +476,7 @@ Si quieres buscar ropa, marcas y compras a precios de outlet, **Go Grand Outlet 
 
 ---
 
-## 7. Playas
+## 🏖️ 7. Playas
 
 Las playas públicas de Cancún son de acceso gratuito. Para ubicarte mejor, esta guía usa el kilómetro del Boulevard Kukulcán: mientras más alto sea el número, más lejos estarás del inicio de la Zona Hotelera y del Centro. El tiempo real de traslado cambia según dónde te hospedes, el tráfico y la hora, así que revisa el mapa antes de salir.
 
@@ -499,7 +499,7 @@ Antes de elegir playa, consulta el [Tablero de Playas Públicas](https://tablero
 
 ---
 
-## 8. Excursiones fuera de Cancún
+## 🚤 8. Excursiones fuera de Cancún
 
 ### Isla Mujeres
 
@@ -542,7 +542,7 @@ Un tour puede costar alrededor de $100 USD por persona, pero muchos incluyen tra
 
 ---
 
-## 9. Seguridad
+## 🛡️ 9. Seguridad
 
 Cancún no es la ciudad más segura del mundo, pero tampoco es un lugar al que debas viajar con miedo. La mayoría de visitantes tiene una buena experiencia. Como en cualquier destino turístico, la diferencia está en informarte, evitar riesgos innecesarios y no improvisar cuando estás cansado, distraído o has tomado alcohol.
 
@@ -584,7 +584,7 @@ Estas recomendaciones no significan que una persona sea responsable de un delito
 
 ---
 
-## 10. Cosas que un visitante debería saber
+## 💡 10. Cosas que un visitante debería saber
 
 ### 1. Algunos precios cambian según quién visita
 
