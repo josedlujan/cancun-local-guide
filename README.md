@@ -1,3 +1,159 @@
+# Cancún Local Guide
+
+A practical guide for people visiting Cancún, whether for one of our events or a personal trip. It focuses on local, useful details: getting around, where to stay, what is worth doing, and how to avoid common mistakes.
+
+> This is not meant to be a generic tourist guide. It is built around local recommendations, practical context, and details that make planning easier.
+
+## 1. Before you arrive
+
+### Book early and use verifiable providers
+
+Cancún gets considerably more expensive close to travel dates, especially during high-demand periods, long weekends, and event dates. If your dates are set, book flights, lodging, and airport transport early. Do not book solely because a price is the lowest: use businesses with a clear name, verifiable contact information, consistent reviews, written conditions, and a payment receipt.
+
+If an offer looks too good to be true, investigate it. Good deals exist, but fake websites, agencies, and social-media profiles also target travelers before they arrive.
+
+### Safety, money, connection, and packing
+
+Cancún is not the safest city in the world, but visitors generally have a good experience. Travel informed, use reliable providers, and avoid unnecessary risks. A dedicated safety section appears below.
+
+The official currency is the Mexican peso. Dollars are accepted in many places, but they are not recommended for everyday purchases because businesses may use a poor exchange rate. Pay by card or exchange dollars for pesos at a reliable exchange house; always ask the rate first.
+
+English is common in Hotel Zone, malls, and tourist businesses, although not everyone speaks it. Basic Spanish, a translation app, and patience are usually enough elsewhere. Download offline maps and save your hotel, airport, event, and terminal locations.
+
+Pack light clothing for heat and humidity, but also a compact rain jacket or umbrella, a spare change of clothes, and shoes that can get wet. Air conditioning can be very strong in malls, offices, restaurants, and transport, so bring a thin long-sleeve layer or light sweater.
+
+### Things to avoid
+
+Avoid prolonged midday sun without water, shade, and sunscreen; heat exhaustion and dehydration can happen quickly, especially when drinking alcohol. Do not drink before entering the sea. Swimming ability does not remove the risk of strong currents: follow flags and lifeguards, and check the [Public Beaches Dashboard](https://tablerodeplayas.implancancun.gob.mx/).
+
+Do not leave valuables unattended on the beach or visible in your room. Avoid isolated streets late at night, even near major avenues. Plan your ride back before going out.
+
+## 2. From the airport to your lodging
+
+Arrange your airport departure in advance through a verifiable private-transfer provider. Looking for a ride after landing, tired and carrying luggage, usually gives you fewer and more expensive options. A rental-car quote may look cheaper than a transfer, but compare insurance, deposit, fuel, parking, and whether you will actually use the car.
+
+ADO is normally the cheapest way to reach downtown Cancún; a ticket is often around MX$145, but check the current price and timetable. Buses depart frequently. Taxis are usually the most expensive option for the value, so use them only when you have no suitable bus or reserved transfer.
+
+Exchanging dollars at the airport is a practical, formal option. You may find a few more centavos elsewhere, but the difference is usually small.
+
+| Destination | Recommended option | Notes |
+| --- | --- | --- |
+| Hotel Zone | Reserved private transport with luggage; ADO if its fixed stop works for you. | [ADO](https://international.ado.com.mx/ado-bus/cancun-airport-to-cancun-hotel-zone-punta-cancun?locale=es-MX) connects terminals 2, 3, and 4 to fixed Hotel Zone stops. For the return, Uber or a reserved private transfer is usually easier. |
+| Downtown Cancún | ADO to Cancún Terminal. | The most economical airport option. Use a taxi, private transport, or walk from the terminal if your lodging is nearby. |
+| Puerto Morelos | To be completed. | To be completed. |
+| Isla Mujeres | Reach Cancún first, then continue to a ferry pier. | Factor in the full transfer and ferry schedule. |
+
+## 3. Where to stay
+
+### Hotel Zone
+
+Best for beaches, hotels, restaurants, tourist activities, and easy movement within the area. It is generally the most expensive area for lodging and dining. All-inclusive hotels can be convenient because their rate usually covers meals, drinks, and included services, but imported alcohol, certain cuts, specialty restaurants, experiences, and other services may cost extra. Compare exactly what each hotel includes.
+
+The first kilometers can be cheaper when booked early. Km 7–13 is a practical central stretch with hotels, malls, restaurants, and frequent buses. The far end has excellent, quieter beaches but is farther from services and activities. Keep valuables in a safe or locked luggage, and choose a hotel by its exact kilometer—not simply because it says “Hotel Zone.”
+
+### Downtown Cancún
+
+Best for better-value hotels and Airbnb, local dining, and access to the ADO terminal; not ideal if you want to walk straight to the beach or return on foot late at night. The exact street matters. Areas near City Hall, Plaza Las Américas, and Parque de las Palapas are useful reference points. Check the map and distances before booking.
+
+### Puerto Morelos and Isla Mujeres
+
+Puerto Morelos is relaxed, with many lodging options within a short walk of the beach, but allow roughly 25–30 minutes by car from Cancún. Isla Mujeres is great for a slow island stay, but it costs more and the ferry makes it unsuitable for tight flights or frequent Cancún commitments. For a simple visit, go early and return that afternoon or evening.
+
+## 4. Getting around Cancún
+
+Hotel Zone buses are one of the best options: in many stretches they pass every five minutes or less and connect beaches, malls, restaurants, Parque de las Palapas, Plaza Las Américas, and Malecón Tajamar. Use official stops and confirm the direction. Downtown routes are more confusing for visitors, and route information is not always current.
+
+Taxis are available but are not the first recommendation: they can be expensive and prices vary. State the destination and agree on the fare **before getting in**. Uber and DiDi provide an estimated fare and trip record; verify the plate, vehicle, and driver. A taxi may be assigned through an app.
+
+Renting a car is useful for trips outside Cancún or groups. Drive defensively around roundabouts and crossings, fully yield to pedestrians, and never drive after drinking. At night, avoid walking alone on quiet streets after 10–11 p.m.; agree on your return transport before going out.
+
+## 5. Food and drinks
+
+Cancún has options for almost every budget, from quick food to formal restaurants.
+
+- **Breakfast — Flor de Lis:** On Avenida Tulum, across from Plaza Las Américas. A fast, comfortable choice for Mexican breakfasts and meals: tamales, huaraches, café de olla, quesadillas, enchiladas, and more.
+- **Quick meal — Plaza Las Américas:** Its air-conditioned food court has about 35 options, including quesadillas, gorditas, burgers, pizza, Chinese food, McDonald’s, and full-service restaurants such as Olive Garden and Johnny Rockets.
+- **Avenida Nader — El Socio Naiz:** A good sit-down option with a mid-range price point. Nader and nearby streets offer Mexican, seafood, Argentinian, and other cuisines.
+- **Seafood:** Puerto Santo in Puerto Juárez is worth the extra transport for its seaside setting and value. Gran Puerto Marina in Puerto Cancún is easier to reach, more expensive, and works even for people who do not want seafood.
+- **Puerto Cancún:** A complete dining-and-walking area. Try La Pizzarra for pizza and pasta, La Parrilla for tacos, Myka for ice cream or frozen Greek yogurt, and Chavito Bien for varied, affordable tacos. It is especially pleasant in the late afternoon or evening.
+- **Dinner:** Puerto Cancún works for casual or elegant dinners. For a special Hotel Zone meal, Puerto Madero is a higher-priced but worthwhile choice for cuts, fish, or seafood by the lagoon.
+- **Nightlife:** Coco Bongo is the classic large first-night-out experience because it combines clubbing and shows. Buy in advance only through its official site or an authorized channel. The City and other clubs are alternatives. Go with your group, plan your ride home, and do not separate without telling each other. Beer is a simple, predictable choice; for spirits, order known brands, check what your ticket includes, and never accept drinks from strangers.
+
+## 6. Places to see and things to do
+
+- **Plaza Las Américas and Malecón Tajamar:** A large, air-conditioned mall for shopping, banks, cafés, food, and activities. Across the lagoon is Malecón Tajamar, good for walking, sitting, and special-date markets or festivals; visit early or near sunset because midday heat is intense.
+- **Paseo Cancunense and Puente Nichupté:** Paseo Cancunense normally closes part of Avenida Bonampak on Sunday mornings, around 7 a.m.–12 p.m., for walking, running, cycling, skating, family activities, and local vendors. A night edition sometimes happens. The recently opened Puente Nichupté can also host Sunday walking, cycling, food, and sunset activities. Confirm current dates and hours.
+- **Parque de las Palapas and City Hall:** A local place for esquites, marquesitas, bread, desserts, snacks, regional crafts, performances, and Sunday activities.
+- **Walk, run, and sunset:** Jardín del Arte in Hotel Zone has a lagoon-side path and benches. Puerto Cancún, Hotel Zone, and Malecón Tajamar are also useful for walking or running.
+- **La Isla and shopping:** La Isla has luxury and more accessible areas, restaurants, food, and clothing stores. Visitors often look for perfume deals; compare formal retailers such as UltraFemme and do not buy unsealed products.
+- **Playa Delfines viewpoint:** Free access, a well-known view, and the Cancún sign. No one should charge you to enter, use the viewpoint, or take your own photo.
+- **Parks and nature:** Parque Cancún offers vegetation, running, children’s spaces, skating, skateboarding, birdwatching, and parkour. Parque Ecológico Kabah is good for a quiet walk and regional wildlife; do not feed or touch animals.
+- **Avenida Huayacán:** A growing, restaurant-filled area that is not central and is usually easiest to reach by Uber, DiDi, or taxi.
+- **Go Grand Outlet Riviera Maya:** Near the airport, with outlet shopping, cafés, restaurants, and changing entertainment such as ice rink, skating shows, hockey, and go-karts. Check what is available that day.
+
+## 7. Beaches
+
+Public beaches are free. This guide uses Boulevard Kukulcán kilometer markers: higher numbers are farther from the start of Hotel Zone and downtown. Travel time depends on your hotel, traffic, and time of day. Check flags, lifeguards, crowd level, and conditions on the [Public Beaches Dashboard](https://tablerodeplayas.implancancun.gob.mx/).
+
+| Beach | Location / reference | Best if... |
+| --- | --- | --- |
+| Playa del Niño | Puerto Juárez, north of downtown | You are staying downtown or near Puerto Juárez. |
+| Las Perlas | Hotel Zone, Km 2.5 | You want a beach near downtown or Puerto Cancún. |
+| Langosta | Hotel Zone, Km 5 | You want an early Hotel Zone beach. |
+| Tortugas | Hotel Zone, Km 6.5 | You want a busy beach near docks and tourist activities. |
+| Chac Mool | Hotel Zone, Km 9.5 | You are staying in the central Hotel Zone. |
+| Marlín | Hotel Zone, Km 12.5 | You want to combine La Isla, beach, and dining. |
+| Ballenas | Hotel Zone, Km 14.5 | You want the mid-south Hotel Zone. |
+| San Miguelito | Hotel Zone, Km 16.5 | You want to combine beach with the Maya Museum and archaeological site. Confirm access and services. |
+| Delfines / El Mirador | Hotel Zone, Km 17.5 | You want the Cancún sign and panoramic view. |
+| Coral | Hotel Zone, Km 24.5 | You do not mind going to the far south end. |
+
+## 8. Excursions outside Cancún
+
+### Isla Mujeres
+
+The most common ferry points are Puerto Juárez, convenient from downtown, and Playa Tortugas, convenient from Hotel Zone; Playa Caracol also has departures. Ultramar lists adult fares at MX$290 one way or MX$580 round trip, subject to change.
+
+There are two main ways to spend the day: **Garrafón Park**, where package-dependent inclusions can cover food, drinks, zip lines, snorkeling, kayaking, pools, and other activities; or **Playa Norte**, for a freer day of beach, bars, restaurants, and activities. Take an early ferry and confirm the last return before leaving the pier area.
+
+### Puerto Morelos and cenotes
+
+Puerto Morelos is an easy, relaxed beach day: walk into town, choose a restaurant near the beach, and use it as your base for food, restrooms, and beach time.
+
+You can visit cenotes independently; some entry fees can be around MX$40–150, depending on the place and service. However, routes—especially near Puerto Morelos—can be confusing, and independent travel can cost time and money. For first-time visitors or short stays, a tour is often more convenient because it may include hotel transport, entry, and sometimes food or drinks. Confirm final price, payments, life-jacket requirements, showers, hours, and road access if going alone.
+
+### Tulum and Chichén Itzá
+
+Tulum is a full-day trip from Cancún, often around two hours each way by road depending on traffic. It has ruins, beach, and a famous hotel zone, but prices can be high and destinations are spread out. Plan transport and your return; do not improvise isolated walks or late trips.
+
+For Chichén Itzá, a tour is recommended for first-time visitors. The Yucatán site involves more than admission: transport, tolls, parking, food, and a long road day. Tours around US$100 can include transport, guide, food, regional stops, and cenotes, so independent travel does not always save money. Verify exactly what a tour includes.
+
+## 9. Safety
+
+Most visitors have a good experience, but travel informed and do not improvise when tired, distracted, or drinking. These are prevention measures, not blame if something happens.
+
+- Use identifiable providers and save receipts, bookings, and digital copies of travel documents.
+- Keep passports, cash, jewelry, and electronics out of sight in your room and never leave all belongings unattended on the beach.
+- Drink water, seek shade, follow lifeguards and flags, and do not enter the sea after drinking.
+- Agree on taxi fares before getting in; verify app ride details; keep battery, mobile data, and your hotel location available.
+- Avoid walking alone on quiet streets late at night, stay with your group, and do not accept drinks, rides, or plans from strangers.
+- In an emergency, move to a busy business or hotel and call **911**. Block lost cards, documents, or phones quickly and keep reports and screenshots.
+
+## 10. Ten things visitors should know
+
+1. Many attractions and tourist services have different rates for residents, Mexican nationals, and visitors—ask what is included.
+2. Xcaret parks are usually a good first-time option; compare the less expensive alternatives and their inclusions before choosing.
+3. Isla Blanca is a quiet, mostly undeveloped beach that requires a rental car or private transport; its sea is not always best for swimming.
+4. Do not expect a perfect dollar exchange rate; use the airport or established downtown exchange houses.
+5. Free Wi-Fi exists in malls, cafés, and some downtown areas, but do not rely on it—download key maps and documents.
+6. Cards work in most formal businesses; review charges and avoid handing your card to untrustworthy places.
+7. OXXO stores are useful 24 hours a day for basics, but are generally more expensive, especially in Hotel Zone.
+8. A good informal meal with a drink often costs around MX$200–250; expect roughly MX$350–400 per person at a restaurant.
+9. Taxis are normally the most expensive transportation option; buses and ride apps are often clearer and better value.
+10. Public beaches are free: no one should charge you to enter, use public access, or take your own photo.
+
+---
+
 # Guía local de Cancún
 
 Una guía práctica para personas que vienen a Cancún, ya sea por uno de nuestros eventos o por viaje personal. Aquí encontrarás recomendaciones concretas: cómo moverte, dónde quedarte, qué planes valen la pena y cómo evitar errores comunes.
