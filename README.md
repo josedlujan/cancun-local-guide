@@ -430,24 +430,42 @@ Estas recomendaciones no significan que una persona sea responsable de un delito
 
 ## 10. Cosas que un visitante debería saber
 
-_Pendiente por completar._
+### 1. Algunos precios cambian según quién visita
 
----
+En muchos atractivos y servicios turísticos hay tarifa nacional y tarifa para visitante. Antes de pagar, pregunta qué incluye el precio y si existe una tarifa distinta para residentes, nacionales o extranjeros.
 
-## Plantilla para recomendaciones
+### 2. Los parques son una buena opción, pero compara lo que incluye cada entrada
 
-Usaremos este formato al agregar restaurantes, playas, actividades y lugares:
+Los parques de Xcaret rara vez son una mala opción para alguien que visita Cancún por primera vez: son cómodos, completos y muy fáciles de disfrutar. También hay alternativas más económicas dentro del mismo tipo de experiencia, aunque normalmente incluyen menos actividades. Antes de elegir, compara transporte, comida, actividades y tiempo disponible; el boleto más barato no siempre resulta ser el más conveniente.
 
-```md
-## Nombre del lugar o plan
+### 3. Isla Blanca es para quien busca alejarse de todo
 
-**Ideal para:**
-**Zona:**
-**Presupuesto:** $ / $$ / $$$
-**Tiempo que necesitas:**
-**Cómo llegar:**
-**Mejor momento para ir:**
-**Qué pedir / qué hacer:**
-**Tip local:**
-**Evítalo si:**
-```
+Isla Blanca es una playa con muy pocos hoteles y construcciones, ideal si quieres conocer una parte más libre y aislada de la zona. Necesitas rentar auto o contar con transporte propio para llegar. Vale mucho la pena por el paisaje y tranquilidad, pero el mar no siempre es el mejor para nadar.
+
+### 4. No esperes un tipo de cambio de dólar perfecto
+
+Aunque muchos negocios aceptan dólares, el tipo de cambio suele ser más bajo que el real. Para no perder de más, cambia dinero en el aeropuerto o en casas de cambio establecidas del Centro y pregunta el tipo de cambio antes de aceptar.
+
+### 5. Hay wifi gratuito, pero no dependas de él
+
+Puedes encontrar wifi en plazas como Las Américas, Puerto Cancún y La Isla, además de cafeterías, restaurantes y negocios como Starbucks. También hay puntos de conexión en algunas zonas del Centro. Aun así, descarga mapas, reservas y direcciones importantes antes de salir; la conexión no siempre estará disponible cuando la necesites.
+
+### 6. Las tarjetas funcionan casi en todos lados
+
+La mayoría de restaurantes, hoteles, plazas y negocios establecidos acepta tarjeta. Úsala de preferencia en lugares formales, revisa los cargos y evita entregar tu tarjeta en sitios improvisados o poco confiables.
+
+### 7. OXXO puede sacarte de un apuro
+
+Los OXXO suelen estar abiertos las 24 horas y tienen agua, bebidas, comida rápida, artículos básicos y recargas. Son muy útiles, especialmente en Zona Hotelera, pero sus precios normalmente son más altos que en supermercados o tiendas locales.
+
+### 8. Comer bien no tiene que ser caro
+
+Fuera de restaurantes más formales, una buena comida servida con bebida suele costar aproximadamente entre $200 y $250 MXN por persona. En un restaurante, calcula en promedio entre $350 y $400 MXN por persona. El precio cambia según zona, bebidas y tipo de lugar, pero sirve como referencia para planear.
+
+### 9. El taxi suele ser el transporte más caro
+
+El taxi puede resolverte un traslado, pero por costo-beneficio normalmente no es la primera opción. Si lo usas, acuerda el precio antes de subir; para muchos trayectos, el autobús o una app de transporte será más claro y más conveniente.
+
+### 10. Las playas públicas son gratuitas
+
+Nadie debe cobrarte por entrar a una playa pública, usar su acceso o tomarte tu propia foto. Revisa antes los servicios disponibles, la bandera y la distancia desde tu hospedaje. Si alguien ofrece tomarte una foto, puede ser un servicio opcional, no un cobro obligatorio.
