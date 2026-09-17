@@ -218,9 +218,9 @@ Es una recomendación especialmente buena para desayunar, aunque también funcio
 
 #### Solución rápida: Plaza Las Américas
 
-Si buscas una comida rápida, cómoda y con aire acondicionado, Plaza Las Américas es una opción muy práctica. Su área de comida tiene decenas de locales con variedad suficiente para resolver casi cualquier antojo: quesadillas, gorditas, hamburguesas, pizza, comida china, cadenas de comida rápida y restaurantes de servicio completo.
+Si buscas una comida rápida, cómoda y con aire acondicionado, Plaza Las Américas es una opción muy práctica. Su área de comida tiene alrededor de 35 locales con variedad suficiente para resolver casi cualquier antojo: quesadillas, gorditas, hamburguesas, pizza, comida china y cadenas de comida rápida como McDonald's.
 
-Es una buena elección cuando vienes cansado, hace mucho calor, necesitas comer sin pensar demasiado o cada persona del grupo quiere algo diferente.
+Además de la zona de comida, hay restaurantes de servicio completo como Olive Garden y Johnny Rockets. Es una buena elección cuando vienes cansado, hace mucho calor, necesitas comer sin pensar demasiado o cada persona del grupo quiere algo diferente.
 
 #### Avenida Nader: opciones para sentarse a comer
 
