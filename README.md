@@ -386,39 +386,49 @@ Un tour puede costar alrededor de $100 USD por persona, pero muchos incluyen tra
 
 ---
 
-## 9. Información para eventos
+## 9. Seguridad
 
-Esta sección se adaptará para cada evento.
+Cancún no es la ciudad más segura del mundo, pero tampoco es un lugar al que debas viajar con miedo. La mayoría de visitantes tiene una buena experiencia. Como en cualquier destino turístico, la diferencia está en informarte, evitar riesgos innecesarios y no improvisar cuando estás cansado, distraído o has tomado alcohol.
 
-### Lo esencial
+Estas recomendaciones no significan que una persona sea responsable de un delito si lo sufre. Son medidas prácticas para reducir riesgos y viajar con más tranquilidad.
 
-- Fecha y horarios.
-- Ubicación exacta y enlace de mapa.
-- Punto de acceso o reunión.
-- Código de vestimenta.
-- Qué incluye la entrada.
+### Antes de pagar o reservar
 
-### Cómo llegar y regresar
+- Reserva hoteles, transportes y tours con proveedores identificables: nombre comercial, datos de contacto, reseñas consistentes y comprobante de pago.
+- Si una oferta parece demasiado buena para ser verdad, investígala más. En un destino tan visitado existen páginas, agencias y perfiles falsos que aprovechan la emoción de reservar.
+- Guarda copias digitales de pasaporte, vuelos, hospedaje, seguros y entradas. Comparte tu itinerario con alguien de confianza.
 
-_Pendiente por completar._
+### En hospedaje y espacios públicos
 
-### Qué llevar
+- No dejes dinero, pasaportes, joyería o electrónicos a la vista en tu habitación. Usa caja de seguridad, equipaje con candado o llévalos contigo.
+- En la playa, no dejes todas tus cosas sin vigilancia mientras el grupo entra al mar. Túrnense para cuidarlas o lleva solo lo indispensable.
+- No muestres grandes cantidades de efectivo ni objetos de valor sin necesidad.
 
-_Pendiente por completar._
+### Sol, mar y actividades
 
-### Planes antes o después del evento
+- El sol de mediodía puede provocar deshidratación o insolación rápidamente, incluso si hay nubes. Toma agua, busca sombra y usa protección solar.
+- No entres al mar después de beber alcohol. Saber nadar no elimina el riesgo de corrientes.
+- Revisa banderas, escucha a los guardavidas y consulta el [Tablero de Playas Públicas](https://tablerodeplayas.implancancun.gob.mx/) antes de ir. Si una corriente te arrastra, no luches contra ella: intenta desplazarte en paralelo a la orilla, pide ayuda y conserva energía.
 
-_Pendiente por completar._
+### Transporte y regreso nocturno
+
+- Para taxi, acuerda el precio antes de subir. Las apps de transporte ayudan a ver el costo y a dejar registrado el trayecto; verifica placas, modelo y conductor antes de entrar.
+- Planea cómo regresar antes de empezar la noche. Lleva batería, datos móviles y la ubicación de tu hospedaje guardada.
+- Evita caminar solo por calles poco transitadas después de las 10 u 11 de la noche, sobre todo al salir de fiesta. En grupos pequeños o parejas, acuerden el transporte de regreso y no dependan de resolverlo al final.
+- Mantente con tu grupo, comparte ubicación cuando sea útil y no aceptes bebidas, traslados o planes de desconocidos.
+
+### Si ocurre un problema
+
+- Muévete a un lugar concurrido, como un hotel, restaurante, plaza o establecimiento abierto, y pide apoyo.
+- Para una emergencia inmediata, llama al **911**.
+- Si perdiste tarjetas, documentos o teléfono, bloquéalos cuanto antes y conserva cualquier reporte, comprobante o captura relacionada.
+- Si tuviste un problema con una reserva o prestador turístico, reúne datos del negocio, recibos y mensajes antes de presentar una queja.
+
+> **Tip local:** disfrutar Cancún no requiere vivir con miedo; requiere no improvisar con el sol, el mar, tu dinero, tus pertenencias o tu regreso de noche.
 
 ---
 
-## 10. Seguridad
-
-_Pendiente por completar. Esta sección reunirá recomendaciones prácticas para moverte, salir y actuar ante un imprevisto durante tu estancia._
-
----
-
-## 11. Cosas que un visitante debería saber
+## 10. Cosas que un visitante debería saber
 
 _Pendiente por completar._
 
