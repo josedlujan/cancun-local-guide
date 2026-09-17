@@ -220,7 +220,41 @@ _Pendiente por completar._
 
 ---
 
-## 10. Cosas que un visitante debería saber
+## 10. Seguridad
+
+Cancún no es la ciudad más segura del mundo, pero tampoco es un lugar donde debas viajar con miedo. La mayoría de visitantes tiene una buena experiencia y disfruta el destino sin problemas. Como en cualquier ciudad turística, la diferencia suele estar en informarte, evitar riesgos innecesarios y saber qué hacer si algo no sale como esperabas.
+
+Esto no significa que una persona sea responsable de un delito si lo sufre. Estas recomendaciones buscan reducir riesgos y ayudarte a tomar decisiones con más tranquilidad.
+
+### Antes de viajar
+
+- Reserva hospedaje, transporte y actividades con proveedores verificables.
+- Comparte con alguien de confianza tu itinerario, hospedaje y vuelos.
+- Guarda copias digitales de tu pasaporte, reservas, seguro de viaje y contactos importantes.
+- Descarga mapas sin conexión y guarda la dirección exacta de tu hospedaje y de los eventos.
+- Considera descargar [Guest Assist](https://guestassist.mx/), la plataforma estatal de orientación y asistencia turística.
+
+### Durante tu estancia
+
+- No muestres grandes cantidades de efectivo, objetos de alto valor o información personal innecesariamente.
+- Acordar el precio antes de iniciar un trayecto en taxi evita malos entendidos.
+- Si sales de noche, planea cómo regresar antes de empezar el plan; no esperes a estar cansado, sin batería o sin datos para resolverlo.
+- Mantente con tu grupo si están en una zona que no conocen y comparte ubicación cuando sea útil.
+- No aceptes ofertas de desconocidos que presionen para comprar tours, cambiar hospedaje o acompañarlos a otro lugar.
+- Confía en tu intuición: si algo, alguien o un lugar te hace sentir incómodo, aléjate y busca un establecimiento concurrido o apoyo.
+
+### Si ocurre un problema
+
+- Para una emergencia inmediata, llama al **911**.
+- Comunícate con tu hotel, anfitrión u organización del evento para pedir apoyo y orientación.
+- Si perdiste documentos, tarjetas o teléfono, bloquéalos cuanto antes y conserva cualquier reporte o comprobante.
+- Si sufriste una estafa o problema con un prestador turístico, reúne comprobantes, capturas y datos del negocio; Guest Assist puede orientar a visitantes ante este tipo de situaciones.
+
+> **Tip local:** no se trata de dejar de explorar Cancún, sino de no improvisar lo importante. Tener batería, datos, una ruta de regreso y proveedores confirmados hace una diferencia enorme.
+
+---
+
+## 11. Cosas que un visitante debería saber
 
 _Pendiente por completar._
 
