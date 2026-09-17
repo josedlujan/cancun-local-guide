@@ -168,43 +168,94 @@ Al ser una isla, hospedarse y consumir suele ser más caro. Tiene muy buenas opc
 
 ### Autobuses públicos
 
-_Pendiente por completar._
+Si te hospedas en la Zona Hotelera, el autobús es una de las mejores opciones para moverte. Pasa con mucha frecuencia —en muchos tramos cada cinco minutos o menos— y te permite llegar a playas, plazas, restaurantes y puntos cercanos al Centro sin complicarte demasiado. Mientras te mantengas dentro de la Zona Hotelera o vayas hacia lugares cercanos como Parque de las Palapas, Plaza Las Américas o Malecón Tajamar, es una opción práctica y económica.
+
+En el Centro las rutas son más confusas y no las recomendaría como primera opción para un visitante que no conoce la ciudad. Hay aplicaciones y sitios para consultar recorridos, pero la información no siempre se actualiza con rapidez. Si no tienes claro qué ruta tomar, usa una app de transporte o pide orientación antes de subir.
+
+> **Tip local:** en la Zona Hotelera usa siempre las paradas oficiales y confirma la dirección del autobús antes de subir.
 
 ### Taxis
 
-_Pendiente por completar._
+Los taxis existen como opción, pero no los recomiendo como primera alternativa. Suelen ser caros y la tarifa puede variar mucho; a turistas les pueden cobrar más de lo razonable.
+
+Si vas a usar uno, di tu destino y pregunta cuánto te cobrará **antes de subir**. Si el precio no te convence, busca otra opción. No negocies el costo cuando ya estás dentro del taxi o al llegar a tu destino.
 
 ### Apps de transporte
 
-_Pendiente por completar._
+Uber y DiDi son las aplicaciones más conocidas y una buena opción para moverte por Cancún. Te permiten ver una estimación de precio, registrar el trayecto y compartirlo con alguien si lo necesitas.
+
+No te sorprendas si el vehículo asignado es un taxi: algunos taxis están dados de alta en las aplicaciones y operan bajo las reglas de la plataforma, con unidad y conductor identificados. Antes de subir, verifica que placas, modelo y conductor coincidan con lo que muestra la app.
 
 ### Renta de auto
 
-_Pendiente por completar._
+Rentar auto puede ser buena opción si planeas recorrer varios lugares fuera de Cancún o viajas en grupo. Dentro de la ciudad y la Zona Hotelera no siempre es necesario, pero te da flexibilidad para visitar cenotes, pueblos o destinos de la península.
+
+Manejar en Cancún puede sentirse distinto a otras ciudades: hay glorietas, incorporaciones y cruces donde debes prestar mucha atención. En los pasos peatonales, el peatón tiene prioridad; detente por completo y espera a que cruce, incluso si va despacio. Observa cómo se mueve el tráfico, maneja a la defensiva y nunca conduzcas después de beber alcohol.
 
 ### Regresar de noche
 
-_Pendiente por completar._
+Moverte de noche no significa que necesariamente tendrás un problema, pero no conviene improvisar. Los turistas pueden llamar más la atención cuando van cansados, distraídos o después de beber.
+
+Evita caminar solo por calles poco transitadas después de las 10 u 11 de la noche, especialmente fuera de las zonas céntricas o turísticas. Ir acompañado reduce la exposición, pero no reemplaza planear el regreso. En grupos pequeños o parejas, acuerden cómo volver antes de salir y usen transporte si el último tramo se siente inseguro.
+
+En el Centro hay cámaras y movimiento en varios puntos, pero eso no vuelve todas las calles seguras a cualquier hora. Conserva el teléfono guardado cuando no lo uses, no muestres objetos de valor y elige rutas concurridas o transporte para regresar.
 
 ---
 
 ## 5. Comer y tomar
 
+Esta es una de las partes más fáciles de resolver en Cancún: hay opciones para muchos presupuestos, desde comida rápida y locales sencillos hasta restaurantes más formales. No necesitas complicarte para encontrar algo bueno, especialmente en las zonas comerciales y turísticas.
+
 ### Desayunos
 
-_Pendiente por completar._
+#### Restaurante Flor de Lis
+
+Si quieres un restaurante con muchas opciones mexicanas, recomiendo **Flor de Lis**, sobre Avenida Tulum, frente a Plaza Las Américas. Es cómodo, el servicio suele ser rápido y tiene un menú muy amplio: tamales, huaraches, café de olla, quesadillas, enchiladas y muchos desayunos mexicanos más.
+
+Es una recomendación especialmente buena para desayunar, aunque también funciona muy bien para comer. Es de esos lugares prácticos cuando viajas con un grupo y cada persona quiere algo distinto.
 
 ### Comidas
 
-_Pendiente por completar._
+#### Solución rápida: Plaza Las Américas
+
+Si buscas una comida rápida, cómoda y con aire acondicionado, Plaza Las Américas es una opción muy práctica. Su área de comida tiene decenas de locales con variedad suficiente para resolver casi cualquier antojo: quesadillas, gorditas, hamburguesas, pizza, comida china, cadenas de comida rápida y restaurantes de servicio completo.
+
+Es una buena elección cuando vienes cansado, hace mucho calor, necesitas comer sin pensar demasiado o cada persona del grupo quiere algo diferente.
+
+#### Avenida Nader: opciones para sentarse a comer
+
+La Avenida Nader y sus alrededores son una zona muy buena para encontrar restaurantes de distintos estilos: comida argentina, mariscos, mexicana y más. Es una alternativa agradable si quieres sentarte a comer sin ir a un centro comercial o a la Zona Hotelera.
+
+Mi recomendación es **El Socio Naiz**. La comida es muy buena y el precio está en un punto medio: no es barato, pero tampoco es excesivo para lo que ofrece. Es una gran opción cuando quieres una comida con más ambiente que algo rápido.
+
+#### Mariscos
+
+Para mariscos recomiendo dos opciones:
+
+- **Puerto Santo**, en Puerto Juárez. Llegar puede requerir planear transporte, pero vale la pena por estar junto al mar, tener un ambiente cómodo y una buena relación entre precio y calidad.
+- **Gran Puerto Marina**, en Puerto Cancún. Es una alternativa más cómoda de llegar y muy buena para comer mariscos. No es barata, pero ofrece buena calidad, ambiente y opciones incluso para quien no quiere mariscos.
+
+#### Puerto Cancún: comer y caminar
+
+El sector de Puerto Cancún es una opción muy completa para comer. Hay restaurantes de diferentes estilos, pizzas, pastas, tacos y heladerías. Puedes considerar **La Pizzarra** para pizza y pasta, **La Parrilla** para tacos, y **Myka** si quieres un helado o yogurt griego congelado.
+
+Frente a Puerto Cancún, **Chavito Bien** es de mis lugares favoritos para tacos. Tiene variedad, precios accesibles y demuestra que no necesitas ir a Ciudad de México para comer tacos muy buenos.
+
+Puerto Cancún es una plaza abierta, así que disfrútala más por la tarde o noche, cuando baja el calor. Es una buena opción para ir a caminar y luego cenar, no solo para resolver una comida.
 
 ### Cenas
 
-_Pendiente por completar._
+Puerto Cancún funciona muy bien para cenar: hay restaurantes con distintos estilos y niveles de formalidad, desde una cena casual hasta algo más elegante. Es una opción fácil si viajas con un grupo que no se pone de acuerdo o si quieren caminar antes o después de comer.
+
+Si quieres una cena especial en la Zona Hotelera, recomiendo **Puerto Madero**. Sus precios son altos por la zona y el tipo de restaurante, pero la experiencia vale la pena si buscas una buena cena de cortes, pescados o mariscos frente a la laguna.
 
 ### Bares y vida nocturna
 
-_Pendiente por completar._
+El lugar más popular para una primera salida grande en Cancún es **Coco Bongo**. Es conocido por combinar discoteca y shows en distintos momentos de la noche. Recomiendo comprar la entrada con anticipación y únicamente por su página oficial o un canal autorizado: en la calle pueden ofrecerte precios o paquetes distintos, que a veces terminan siendo más caros o menos claros.
+
+The City y otros clubes de la zona no son malas opciones, pero Coco Bongo es mi recomendación principal si quieres vivir el show por el que Cancún es conocido. Ve acompañado, planea cómo regresar y no dejes que el grupo se separe sin avisar.
+
+Respecto al alcohol, si buscas una opción sencilla y predecible, la cerveza suele ser una buena elección. Si prefieres destilados, pide marcas conocidas y verifica qué incluye tu entrada. Comprar una botella puede darte más control sobre lo que toma el grupo, pero eleva bastante el gasto; elige siempre establecimientos formales y no aceptes bebidas de desconocidos.
 
 ### Opciones por necesidad
 
