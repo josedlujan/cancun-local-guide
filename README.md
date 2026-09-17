@@ -95,6 +95,8 @@ Si tu prioridad es gastar lo menos posible, ADO es la opción más económica pa
 
 Los autobuses de ADO salen con frecuencia desde el aeropuerto. Consulta el horario desde la terminal en la que aterrizas en la [página de ADO](https://www.ado.com.mx/) antes de viajar o al llegar; así sabrás cuál es la siguiente salida y podrás elegir el destino correcto.
 
+Cambiar dólares en el aeropuerto también es una buena opción si necesitas pesos al llegar. Es posible que en alguna casa de cambio de una plaza o centro comercial encuentres unos centavos más por dólar, pero la diferencia normalmente no será muy grande. En el aeropuerto tienes la ventaja de hacerlo de inmediato y con establecimientos formales, sin tener que buscar una casa de cambio después.
+
 Los taxis suelen ser la opción más cara en relación costo-beneficio para salir del aeropuerto, por lo que no los recomiendo como primera alternativa. Úsalos solo si necesitas salir de inmediato, no te funciona el horario del autobús y no tienes un traslado reservado.
 
 ### Cómo llegar según tu destino
